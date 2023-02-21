@@ -1,4 +1,4 @@
-## Project Description
+## How it works:
 
 - Opens terminal, changes the directory to library cache folder, and removes all unnecessary cache.
 - Afterwards, the user is prompted to restart their system for the changes to take effect.
