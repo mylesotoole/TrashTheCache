@@ -1,6 +1,6 @@
 ## Project Description
-- Bash script that opens terminal, change direcory to library cache folder, and removes all unecessary cache.
-- Afterwards you will be prompted to restart your system for the changes to take effect.
+- Opens terminal, changes the directory to library cache folder, and removes all unecessary cache.
+- Afterwards user is prompted to restart their system for the changes to take effect.
 
 ## How to make the script executable via terminal:
 
