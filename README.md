@@ -9,6 +9,9 @@
 2. Drag script into terminal.
 3. Press enter.
 
+<em>For first run, you may need to secondary click and select _Open_.</em>
+
+
 ## How to easily run the script:
 
 1. Secondary click on the script.
