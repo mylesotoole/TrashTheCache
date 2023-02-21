@@ -2,10 +2,11 @@
 - Opens terminal, changes the directory to library cache folder, and removes all unecessary cache.
 - Afterwards, the user is prompted to restart their system for the changes to take effect.
 
-## How to make the script executable via terminal:
+## How to make the script executable:
 
-1. `bash chmod 755`
+1. Copy `bash chmod 755` into terminal
 2. Drag script into terminal
+3. Press enter
 
 ## How to easily run the script:
 
