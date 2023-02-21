@@ -5,7 +5,7 @@
 
 ## How to make the script executable:
 
-1. Copy and paste `bash chmod 755` into terminal.
+1. Copy and paste `bash chmod +x ` into terminal.
 2. Drag script into terminal.
 3. Press enter.
 
