@@ -11,7 +11,7 @@
 
 ## How to easily run the script:
 
-1. Control select the script.
+1. Secondary click on the script.
 2. Select **Get Info**.
 3. Click **Open With** and set to **Terminal**.
 
