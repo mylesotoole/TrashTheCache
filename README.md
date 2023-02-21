@@ -4,7 +4,7 @@
 
 ## How to make the script executable via terminal:
 
-1. `bash chmod 755 `
+1. `bash chmod 755`
 2. Drag script into terminal
 
 ## How to easily run the script:
