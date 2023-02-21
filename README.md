@@ -11,7 +11,7 @@
 2. Drag script into terminal.
 3. Press enter.
 
-<em>For first run, you may need to secondary click and select <strong>Open</strong>.</em>
+<em>For first run, you may also need to secondary click and select <strong>Open</strong>.</em>
 
 
 ## How to easily run the script:
