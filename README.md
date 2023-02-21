@@ -1,5 +1,6 @@
-# TrashTheCache
-
+## TrashTheCache
+ Simple macOS bash script to clear library cache which frees up "system data" in storage settings
+ 
 ## Project Description
 
 ## How to make the script executable via terminal:
