@@ -12,7 +12,7 @@
 ## How to easily run the script:
 
 1. Control select the script.
-2. Select "Get Info".
-3. Click "Open With" and set to "Terminal".
+2. Select **Get Info**.
+3. Click **Open With** and set to **Terminal**.
 
 <em>Now when you double click the script it runs automatically and it can be placed anywhere.</em>
