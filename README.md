@@ -1,6 +1,6 @@
 ## Project Description
 - Opens terminal, changes the directory to library cache folder, and removes all unecessary cache.
-- Afterwards user is prompted to restart their system for the changes to take effect.
+- Afterwards, the user is prompted to restart their system for the changes to take effect.
 
 ## How to make the script executable via terminal:
 
