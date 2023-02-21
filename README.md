@@ -3,13 +3,15 @@
 - Opens terminal, changes the directory to library cache folder, and removes all unnecessary cache.
 - Afterwards, the user is prompted to restart their system for the changes to take effect.
 
+<em>If you secondary click and select <strong>Get Info</strong>, you can drag your own image over as an app icon.</em>
+
 ## How to make the script executable:
 
 1. Copy and paste `bash chmod +x ` into terminal.
 2. Drag script into terminal.
 3. Press enter.
 
-<em>For first run, you may need to secondary click and select _Open_.</em>
+<em>For first run, you may need to secondary click and select <strong>Open</strong>.</em>
 
 
 ## How to easily run the script:
