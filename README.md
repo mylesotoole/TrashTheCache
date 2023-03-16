@@ -1,3 +1,5 @@
+<p align="center"><img src= README.jpg width="900"></p>
+
 ## How it works:
 
 - Opens terminal, changes the directory to library cache folder, and removes all unnecessary cache.
