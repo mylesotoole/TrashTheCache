@@ -1,4 +1,4 @@
-<p align="center"><img src= README.jpg width="900"></p>
+<p align="center"><img src= README.jpg width="700"></p>
 
 ## How it works:
 
