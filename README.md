@@ -1,6 +1,3 @@
-<p align="center"><img src= README.jpg width="700"><br>
-<em>Alternatively, you may use the compiled macOS app that runs the script.</em></p>
-
 ## How the script works:
 
 - Opens terminal, changes the directory to library cache folder, and removes all unnecessary cache.
@@ -24,3 +21,8 @@
 3. Click **Open With** and set to **Terminal**.
 
 <em>Now when you double click the script it runs automatically and it can be placed anywhere.</em>
+
+## The prebuilt app:
+
+<p align="center"><img src= README.jpg width="700"><br>
+<em>Alternatively, you may use the macOS app that runs the script when opened.</em></p>
