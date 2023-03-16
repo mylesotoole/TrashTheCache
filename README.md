@@ -1,4 +1,5 @@
-<p align="center"><img src= README.jpg width="700"></p>
+<p align="center"><img src= README.jpg width="700"><br>
+<em>Alternatively, you may use the compiled macOS app that runs the script.</em></p>
 
 ## How the script works:
 
