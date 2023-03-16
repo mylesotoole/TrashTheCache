@@ -24,5 +24,7 @@
 
 ## The prebuilt app:
 
+- Alternatively, you may use the macOS app that runs the script when opened.
+
 <p align="center"><img src= README.jpg width="700"><br>
-<em>Alternatively, you may use the macOS app that runs the script when opened.</em></p>
+<em>Initially, you may need to secondary click and select <strong>Open</strong> and then <strong>Open</strong> again.</em></p>
