@@ -16,7 +16,7 @@
 1. Secondary click on the script.
 2. Select **Get Info**.
 3. Click **Open With** and set to **Terminal**.
-4. Double click the script it runs automatically and it can be placed anywhere.
+4. Double click the script to run automatically and place it anywhere.
 
 <em>For first run, you may also need to secondary click and select <strong>Open</strong>.</em>
 
