@@ -1,17 +1,23 @@
-## How the script works:
+## How it works:
 
-- Opens terminal, changes the directory to library cache folder, and removes all cache safe to remove.
+- Built using [Platypus](https://sveinbjorn.org/platypus) to turn the script into a simple macOS app.
+- Opens terminal, changes the directory to library cache folder, and removes all cache that is safe to remove.
 - Afterwards, the user is prompted to restart their system for the changes to take effect.
 
-<em>If you secondary click and select <strong>Get Info</strong>, you can drag your own image over as an app icon.</em>
+<p align="center"><img src= README.jpg width="700"><br>
+<em>Initially, you may need to secondary click and select <strong>Open</strong> and then <strong>Open</strong> again.</em></p>
 
-## How to make the script executable:
+## Alternatively you may user the script:
+
+### How to make the script executable:
 
 1. Copy and paste `bash chmod +x ` into terminal.
 2. Drag script into terminal.
 3. Press enter.
 
-## How to easily run the script:
+<em>If you secondary click and select <strong>Get Info</strong>, you can drag your own image over as an app icon.</em>
+
+### How to easily run the script:
 
 1. Secondary click on the script.
 2. Select **Get Info**.
@@ -19,10 +25,3 @@
 4. Double click the script to run automatically and place it anywhere.
 
 <em>For first run, you may also need to secondary click and select <strong>Open</strong>.</em>
-
-## The prebuilt app:
-
-- Alternatively, you may use the macOS app that runs the script when opened.
-
-<p align="center"><img src= README.jpg width="700"><br>
-<em>Initially, you may need to secondary click and select <strong>Open</strong> and then <strong>Open</strong> again.</em></p>
