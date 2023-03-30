@@ -1,8 +1,8 @@
 ## How it works:
 
 - Built using [Platypus](https://sveinbjorn.org/platypus) to turn the script into a simple macOS app.
-- Opens terminal, changes the directory to library cache folder, and removes all cache safe to remove.
-- Afterwards, the user is prompted to restart their system for the changes to take effect.
+- Opens terminal, changes to library cache directory, and removes all cache safe to remove.
+- Afterwards, user is prompted to restart their system for the changes to take effect.
 
 <p align="center"><img src= README.jpg width="700"><br>
 <em>Initially, you may need to secondary click and select <strong>Open</strong> and then <strong>Open</strong> again.</em></p>
