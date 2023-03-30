@@ -7,7 +7,7 @@
 <p align="center"><img src= README.jpg width="700"><br>
 <em>Initially, you may need to secondary click and select <strong>Open</strong> and then <strong>Open</strong> again.</em></p>
 
-## Alternatively you may user the script:
+## Alternatively you may solely use the script:
 
 ### How to make the script executable:
 
