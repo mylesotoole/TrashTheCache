@@ -17,13 +17,10 @@
 2. Drag script into terminal.
 3. Press enter.
 
-<em>If you secondary click and select <strong>Get Info</strong>, you can drag your own image over as an app icon.</em>
-
 ### How to easily run the script:
-
+###### <em>If you secondary click and select <strong>Get Info</strong>, you can drag your own image over as an app icon.</em>
 1. Secondary click on the script.
 2. Select **Get Info**.
 3. Click **Open With** and set to **Terminal**.
 4. Double click the script to run automatically and place it anywhere.
-
-<em>For first run, you may also need to secondary click and select <strong>Open</strong>.</em>
+###### <em>For first run, you may also need to secondary click and select <strong>Open</strong>.</em>
