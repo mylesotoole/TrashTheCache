@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-# Change to library cache directory and remove cache
-cd ~/Library/Caches/; rm -rf ~/Library/Caches/*
+# Delete safe-to-remove library caches
+rm -rf ~/Library/Caches/*
 
 # Prompt user to restart their system
 osascript -e 'tell app "loginwindow" to «event aevtrrst»'
