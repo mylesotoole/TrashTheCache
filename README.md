@@ -1,3 +1,5 @@
+###### To open an untrusted app on macOS Sequoia, you need to navigate to *System Settings*, *Privacy & Security*, then find the specific app and click *Open Anyway*.
+
 ## How it works:
 
 - Built using [Platypus](https://sveinbjorn.org/platypus) to turn the script into a simple macOS app.
