@@ -1,4 +1,4 @@
-###### To open an untrusted app on macOS Sequoia, you need to navigate to *System Settings*, *Privacy & Security*, then find the specific app and click *Open Anyway*.
+###### To open an untrusted app on [macOS Sequoia](https://www.apple.com/macos/macos-sequoia/), you need to navigate to *System Settings*, *Privacy & Security*, then find the specific app and click *Open Anyway*.
 
 ## How it works:
 
