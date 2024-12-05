@@ -1,28 +1,24 @@
-###### To open an untrusted app on [macOS Sequoia](https://www.apple.com/macos/macos-sequoia/), you need to navigate to *System Settings*, *Privacy & Security*, then find the specific app and click *Open Anyway*.
-
 ## How it works:
 
 - Built using [Platypus](https://sveinbjorn.org/platypus) to turn the script into a simple macOS app.
-- Opens terminal in background, changes to the library cache folder, and removes all cache safe to remove.
-- Afterwards, user is prompted to restart their system for the changes to take effect.
+- Opens _Terminal_ in the background, navigates to the user's cache folder, and removes their cache files.
+- After the cleanup, the user is prompted to restart their system for the changes to take effect.
 
 <p align="center"><img src= README.jpg width="700"><br>
-<em>Initially, you may need to secondary click and select <strong>Open</strong> and then <strong>Open</strong> again.</em></p>
 
-<hr>
+## How to run it:
 
-## Alternatively you may solely use the script:
+### Using the app:
 
-### How to make the script executable:
+1. Download the app from [releases](https://github.com/mylesotoole/TrashTheCache/releases/).
 
-1. Copy and paste `bash chmod +x ` into terminal.
-2. Drag script into terminal.
-3. Press enter.
+2. The first time opening an untrusted app varies on your macOS version:
 
-### How to easily run the script:
-###### <em>If you secondary click and select <strong>Get Info</strong>, you can drag your own image over as an app icon.</em>
-1. Secondary click on the script.
-2. Select **Get Info**.
-3. Click **Open With** and set to **Terminal**.
-4. Double click the script to run automatically and place it anywhere.
-###### <em>For first run, you may also need to secondary click and select <strong>Open</strong>.</em>
+   a. On [macOS Sequoia](https://www.apple.com/macos/macos-sequoia/), you need to navigate to _System Settings_, _Privacy & Security_, then find the specific app and click _Open Anyway_.
+
+   b. On older versions of macOS, you may need to secondary click the app, then click _Open_, and click _Open_ again.
+
+### Using _Terminal_
+
+1. Navigate to the script's directory.
+2. Run the script by typing `sh TrashTheCache.sh`.
